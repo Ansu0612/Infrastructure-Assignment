@@ -37,7 +37,7 @@ The layout follows the standard executive flow: Overview $\rightarrow$ Technical
   * **Focus:** Immediate market health, geographic activity, and investment direction.
   * **Key Visuals:** Global Project Volume Map (colored by **Region**), Pipeline Status Bar Chart (colored by **Status**), Investment Split Donut Chart (HVDC vs. AC).
 
-    ![Page 1: Status & Market Trend](<https://github.com/Ansu0612/Infrastructure-Assignment/blob/main/Executive%20Page%202.png>)
+    ![Page 1: Status & Market Trend](<https://github.com/Ansu0612/Infrastructure-Assignment/blob/main/Page%201.png>)
 
 ### Page 2: Technical Feasibility & Project Delivery Forecast
 
